@@ -1,16 +1,57 @@
-### Hi there 👋
+<h1>👋 Hi there! Welcome to my <a href="github.com/ElielsonU">Github</a> profile</h1>
+<h2> My name is Elielson Urbano and my nickname is "ElielsonU" </h2>
 
-<!--
-**ElielsonU/ElielsonU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+   currently, I am a student. I study at: <strong>Campus IFRN Pau dos Ferros</strong> and i'm in computer technician course. I know both backend and frontend technologies, my objective is become a fullstack dev. I am a beginner but i thirsty for knowledge.
+</p>
 
-Here are some ideas to get you started:
+<h2>What i know?</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50/>
+</div>
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=50/>
+</div>
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width=50/>
+</div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50/>
+</div>
+
+
+
+<h2>What i'm learning?</h2>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50/>
+</div>
+          
+<h2>Scores: </h2>
+
+<div>
+<a href="https://github.com/ElielsonU">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielsonU&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElielsonU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<h2>Contact me:</h2>
+
+<div>
+<a href="https://www.instagram.com/urbanoelielson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:elielson7756@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/elielson-urbano-b08654223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<hr>
+<a href="https://github.com/ElielsonU/ElielsonU/blob/output/github-contribution-grid-snake.svg"></a>
