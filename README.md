@@ -2,7 +2,7 @@
 
 ## My name is Elielson Urbano and my nickname is "ElielsonU" 🧑
 <p>
-   currently, I am a student. I study at: <strong>Campus IFRN Pau dos Ferros</strong> and i'm in computer technician course. I know both backend and frontend technologies, my objective is become a fullstack dev. Currently, I am a junior dev at the startup Pechinchou
+   currently, I am a student. I study at: <strong>Campus UFRN Natal</strong> and i'm in bachelor in information technology course. I know both backend and frontend technologies, my objective is become a fullstack dev. Currently, I am a junior II dev at the startup Pechinchou
 </p>
 
 ## What i know? 🤔
